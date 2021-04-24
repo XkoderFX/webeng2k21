@@ -24,8 +24,8 @@ gain general knowledge in internet
 
 **design tools**
 
-- figma
-- sketch
+- *figma*
+- *sketch*
 
 ## HTML:
 
@@ -57,16 +57,16 @@ gain general knowledge in internet
 ## BACKEND:
 
 - [Node.js, Express, MongoDB & More: The Complete Bootcamp 2021 | Udemy](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/)
-- graphQL
+- *graphQL*
 - restAPI
 
 ## SERVERLESS: 
 
 - **firebase** (you have already learned this in react course {in case you took that})
-- aws
-- jamstack
+- *aws*
+- *jamstack*
 
-## SERVER SIDE RENDERING : 
+## SERVER SIDE RENDERING: 
 
 - [Next.js & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/)
 
@@ -76,6 +76,11 @@ gain general knowledge in internet
 - [Junior to Senior Web Developer Roadmap: Development Training | Udemy](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/)
 - [Microservices with Node JS and React | Udemy](https://www.udemy.com/course/microservices-with-node-js-and-react/)
 - make at least 3 or 4 projects yourself (look for ideas...) on all the topics you have already learned
+
+## COMPUTER SCIENCE:
+
+1. [Algorithms and Data structures](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
+
 
 ## Testing:
 
